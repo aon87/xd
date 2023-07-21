@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/GPx7eVwNsQ",
+  "templates": [
+    {
+      "name": "r/colombia heart removal",
+      "sources": [
+        "https://media.discordapp.net/attachments/1080933588234666024/1131783531954192484/download_1.png"
+      ],
+      "x": 210,
+      "y": 124
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
